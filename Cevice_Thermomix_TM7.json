@@ -1,0 +1,73 @@
+{
+  "title": "Ceviche mit Tigermilch",
+  "portions": "2",
+  "total_time": "15 Min",
+  "difficulty": "Einfach",
+  "category": ["Vorspeise", "Fischgerichte", "Sommerküche"],
+  "appliance": "Thermomix TM6 / TM7",
+  "ingredients": [
+    {
+      "section": "Tigermilch",
+      "items": [
+        "50–60 g Fischfilet (z. B. Heilbutt, ohne Haut und Gräten, frisch)",
+        "1 EL Koriander mit Stielen",
+        "2 Knoblauchzehen",
+        "½ rote Zwiebel (nur äußere Schichten)",
+        "½ Stange Staudensellerie",
+        "Saft von 1–1½ Limetten",
+        "1 cm Ingwer, geschält",
+        "20–30 g Milch",
+        "3 TL Salz",
+        "1 Prise schwarzer Pfeffer"
+      ]
+    },
+    {
+      "section": "Ceviche",
+      "items": [
+        "200–250 g Fischfilet (frisch, in ca. 1–2 cm Würfel geschnitten)",
+        "Saft von 1–1½ Limetten",
+        "2 EL frischer Koriander, gehackt",
+        "½ rote Zwiebel, in feine Ringe",
+        "2–3 EL Tigermilch (aus obigem Rezept)",
+        "Salz nach Geschmack",
+        "Optional: etwas Chili (frisch oder getrocknet)"
+      ]
+    },
+    {
+      "section": "Optional als Topping",
+      "items": [
+        "½ Avocado, in Würfeln",
+        "½ Mango, in Würfeln",
+        "→ Mit Limettensaft, Salz und ggf. etwas Tigermilch abmachen"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "title": "Tigermilch herstellen",
+      "instructions": [
+        "Alle Zutaten für die Tigermilch in den Mixtopf geben.",
+        "30 Sek. | Stufe 10",
+        "Flüssigkeit durch ein feines Sieb abseihen. Die klare Tigermilch auffangen und im Kühlschrank kalt stellen."
+      ]
+    },
+    {
+      "title": "Ceviche zubereiten",
+      "instructions": [
+        "Fischwürfel, Limettensaft, Koriander, Zwiebelringe, 2–3 EL Tigermilch und Salz in den Mixtopf geben.",
+        "10 Sek. | Linkslauf | Stufe 1,5",
+        "Umfüllen und 2 Min ziehen lassen.",
+        "Nach Wunsch mit Avocado- und Mangowürfeln servieren."
+      ]
+    }
+  ],
+  "tips": [
+    "Ceviche schmeckt besonders gut mit geröstetem Mais, Süßkartoffelchips oder knusprigem Brot."
+  ],
+  "nutrition": {
+    "calories": "180–220 kcal",
+    "protein": "25 g",
+    "fat": "6 g",
+    "carbs": "8 g"
+  }
+}
